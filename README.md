@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello there! 👋
+My name is Jesus Vazquez, and I am an aspiring Software Developer interested in building reliable systems and creating user-centered solutions. I am actively seeking opportunities in QA software testing, front-end development, and software engineering.
+
+- 🚑 I’m currently working on [UMC Fleet Management](https://github.com/JesusV545/UMC-Fleet-Management), building a React web application for ambulance maintenance and logs. 
+- 📱 I’m currently learning about efficient UI/UX design, data structures, and algorithms!
+- 🛠️ I’m looking to collaborate on QA software testing and React projects. 
 
 <!--
 **JesusV545/jesusv545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
