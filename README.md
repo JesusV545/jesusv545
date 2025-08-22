@@ -1,7 +1,7 @@
 ## Hello there! 👋
 My name is Jesus Vazquez, and I am an aspiring Software Developer interested in building reliable systems and creating user-centered solutions. I am actively seeking opportunities in QA software testing, front-end development, and software engineering.
 
-- 🚑 I’m currently working on [my-portfolio](https://github.com/JesusV545/my-portfolio), building a new web profile to showcase my work. 
+- 👨🏻‍💻 I’m currently working on [my-portfolio](https://github.com/JesusV545/my-portfolio), building a new web profile to showcase my work. 
 - 📱 I’m currently learning about efficient UI/UX design, data structures, and algorithms!
 - 🛠️ I’m looking to collaborate on QA software testing and React projects. 
 
